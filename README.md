@@ -4,11 +4,33 @@
 <p align = "center">
 
 # 2022 AMD-Xilinx PYNQ Summer Hackathon
-This 2022 AMD-Xilinx PYNQ Summer Hackathon is jointly organized by AMD-Xilinx, Yonsei University, and Libertron. This repository is for major announcements about the program and schedule of this summer hackathon. Further announcements are also uploaded to this repository page, so keep tracking this page!
+This 2022 AMD-Xilinx PYNQ Summer Hackathon is jointly organized by AMD-Xilinx, Yonsei University, and Libertron. This repository is for major announcements about the program and schedule of this summer hackathon. Further announcements will be also uploaded to this repository page, so keep tracking this page!
 
 # Summer Hackathon Schedule
 
-![](https://github.com/AMD-Xilinx-PYNQ-Summer-Hackathon-2022/Hackerton_Notice/blob/f52b10e7422145edda3a3c65dffeb4ab3ed0cfec/figures/hackathon_schedule.png?raw=true)
+![](https://raw.githubusercontent.com/AMD-Xilinx-PYNQ-Summer-Hackathon-2022/Hackathon_Notice/main/figures/hackathon_schedule.png)
+  
+Souvenir presentation will be taken place at Yonsei University at 21st June.
+
+# Awards
+
+**First Place**
+- 1,000,000 won
+- Certificates marked with winner record
+
+**Second Place**
+- 500,000 won
+- Certificates marked with winner record
+
+**Third Place**
+- 300,000 won
+- Certificates marked with winner record
+
+**Others**
+- Certificate of attandance of AMD-Xilinx PYNQ summer hackathon
+
+All Participants
+- Souvenir
 
 # Program Registration
 
@@ -19,4 +41,3 @@ You can register for the hackathon through the google form link below. The regis
 # Topic & Submission 
 
 **Will be opened at 21st June**
-
