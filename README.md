@@ -10,7 +10,9 @@ This 2022 AMD-Xilinx PYNQ Summer Hackathon is jointly organized by AMD-Xilinx, Y
 
 ![](https://raw.githubusercontent.com/AMD-Xilinx-PYNQ-Summer-Hackathon-2022/Hackathon_Notice/main/figures/hackathon_schedule.png)
   
-Souvenir presentation will be taken place at Yonsei University at 21st June.
+Souvenir presentation will be taken place at Yonsei University ~~at 21st June.~~ **22nd~24th June.**
+  
+Detailed schedule will be announced through email you entered on registration page.
 
 # Awards
 
@@ -40,4 +42,4 @@ You can register for the hackathon through the google form link below. The regis
 
 # Topic & Submission 
 
-**Will be opened at 21st June**
+**Will be opened at 21st June** **23:59**
