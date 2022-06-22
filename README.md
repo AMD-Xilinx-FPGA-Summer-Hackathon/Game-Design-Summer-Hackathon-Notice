@@ -42,4 +42,32 @@ You can register for the hackathon through the google form link below. The regis
 
 # Topic & Submission 
 
-**Will be opened at 21st June** **23:59**
+
+#  Shooter game controller
+
+> **Shooter video games** or **shooters** are a subgenre of [action video games](https://en.wikipedia.org/wiki/Action_video_game "Action video game") where the focus is almost entirely on the defeat of the character's enemies using the weapons given to the player.
+> ref: https://en.wikipedia.org/wiki/Shooter_game
+----------
+
+<p float="left">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Galaga.png/220px-Galaga.png" height="300" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/ARC_Strikers_1945_%28Striker_1945%29.png/220px-ARC_Strikers_1945_%28Striker_1945%29.png" height="300" /> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Space_Invaders_The_Original_Game_screenshot.png/220px-Space_Invaders_The_Original_Game_screenshot.png" height="300" /> 
+    <figcaption>Image 1. Examples of shooter game (from left: galaga, strickers 1945, space invaders) (images from wikipedia.com)</figcaption>
+</p>
+
+### Overview
+
+For AMD-Xilinx PYNQ Summer Hackathon, the participants will make a **shooter game controller** with the PYNQ board. For the freedom of implementation, there are no restrictions on the detailed specifications or programming languages. You can make any type of shooter game, from fixed shooter games to FPS battle royals. You can use any language (Python, Verilog, c, c++, etc.) for joyful hacking.
+
+The only restriction is below.
+1. Use the PYNQ board for the host controller. (Do not use other devices that act as the host controller. / Peripherals are free to use - monitor, keyboard, mouse, etc.)
+2. Do not copy the online source of the entire code. In the case of referencing the essentials, write the source of the code in the comment or report.
+
+### Submission
+| Due  |  2022. 07. 02 23:59|
+|:--------|:------------------|
+| **Location**  |  **learnus.org**  |
+| **Submission files**  |  **Report, Codes, Demo video**  |
+
+Please submit a code that can reproduce the demo result. (Synthesizable or compilable code)
