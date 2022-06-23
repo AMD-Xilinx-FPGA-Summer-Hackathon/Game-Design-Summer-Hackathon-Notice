@@ -71,3 +71,17 @@ The only restriction is below.
 | **Submission files**  |  **Report, Codes, Demo video**  |
 
 Please submit a code that can reproduce the demo result. (Synthesizable or compilable code)
+
+# Additional Education Video
+
+PYNQ Overview: 
+https://www.youtube.com/watch?v=bjF4DTeLrUk
+
+PYNQ composable Overlay: 
+https://www.youtube.com/watch?v=nKu8dVKDweg
+
+PYNQ GPIO: 
+https://www.youtube.com/watch?v=UBsCNPWudww
+
+PYNQ Custom Overlay: 
+https://www.youtube.com/watch?v=nKu8dVKDweg
