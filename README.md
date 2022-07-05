@@ -3,12 +3,12 @@
 </p>
 <p align = "center">
 
-# 2022 AMD-Xilinx PYNQ Summer Hackathon
-This 2022 AMD-Xilinx PYNQ Summer Hackathon is jointly organized by AMD-Xilinx, Yonsei University, and Libertron. This repository is for major announcements about the program and schedule of this summer hackathon. Further announcements will be also uploaded to this repository page, so keep tracking this page!
+# 2022 AMD-Xilinx FPGA Game Design Summer Hackathon
+This 2022 AMD-Xilinx FPGA Game Design Summer Hackathon is jointly organized by AMD-Xilinx, Yonsei University, and Libertron. This repository is for major announcements about the program and schedule of this summer hackathon. Further announcements will be also uploaded to this repository page, so keep tracking this page!
 
 # Summer Hackathon Schedule
 
-![](https://raw.githubusercontent.com/AMD-Xilinx-PYNQ-Summer-Hackathon-2022/Hackathon_Notice/main/figures/hackathon_schedule.png)
+![](https://github.com/AMD-Xilinx-FPGA-Summer-Hackathon/FPGA-Game-Design-Summer-Hackathon-Notice/blob/main/figures/hackathon_schedule.png?raw=true)
   
 Souvenir presentation will be taken place at Yonsei University ~~at 21st June.~~ **22nd~24th June.**
   
