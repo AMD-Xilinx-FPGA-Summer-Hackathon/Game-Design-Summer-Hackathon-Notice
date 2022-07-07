@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="https://user-images.githubusercontent.com/106140175/169968139-907a4f9f-9527-4024-ba87-64065eb328c1.JPG">
+<img src ="https://github.com/AMD-Xilinx-FPGA-Summer-Hackathon/Game-Design-Summer-Hackathon-Notice/blob/main/figures/banner.gif?raw=true">
 </p>
 <p align = "center">
 
