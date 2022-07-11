@@ -34,6 +34,22 @@ Detailed schedule will be announced through email you entered on registration pa
 All Participants
 - Souvenir
 
+# Winner Notice
+
+1st Place : Team **2xJ**
+- Lee Hyunjun 
+- Park Jaeyoung 
+
+2nd Place : Team **Bulldozer**
+- Choi Soongyu
+- Kim Dongkyu
+
+3rd Place : Team **Assignmentparty**
+- Lee Sungchul
+- Yoon Dasol
+
+**Congratulations!!**
+
 # Program Registration
 
 You can register for the hackathon through the google form link below. The registered team **must include at least one attendee of the 2022 1st semester EEE3313 class (INTRODUCTORY DIGITAL LABS), Yonsei.** If not, the team would be unregistered without notice.
@@ -85,3 +101,5 @@ https://www.youtube.com/watch?v=UBsCNPWudww
 
 PYNQ Custom Overlay: 
 https://www.youtube.com/watch?v=nKu8dVKDweg
+
+
